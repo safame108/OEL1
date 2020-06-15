@@ -1,0 +1,6 @@
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\RESTApiAdapter\bin\Debug\RESTApiAdapter.exe.config
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\RESTApiAdapter\bin\Debug\RESTApiAdapter.exe
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\RESTApiAdapter\bin\Debug\RESTApiAdapter.pdb
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\RESTApiAdapter\obj\Debug\RESTApiAdapter.csproj.CoreCompileInputs.cache
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\RESTApiAdapter\obj\Debug\RESTApiAdapter.exe
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\RESTApiAdapter\obj\Debug\RESTApiAdapter.pdb

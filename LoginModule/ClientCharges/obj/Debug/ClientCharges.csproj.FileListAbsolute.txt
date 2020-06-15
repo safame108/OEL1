@@ -1,0 +1,7 @@
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\ClientCharges\bin\Debug\ClientCharges.exe.config
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\ClientCharges\bin\Debug\ClientCharges.exe
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\ClientCharges\bin\Debug\ClientCharges.pdb
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\ClientCharges\obj\Debug\ClientCharges.csprojAssemblyReference.cache
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\ClientCharges\obj\Debug\ClientCharges.csproj.CoreCompileInputs.cache
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\ClientCharges\obj\Debug\ClientCharges.exe
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\ClientCharges\obj\Debug\ClientCharges.pdb

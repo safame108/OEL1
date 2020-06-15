@@ -1,0 +1,7 @@
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\Content Management System\bin\Debug\Content Management System.exe.config
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\Content Management System\bin\Debug\Content Management System.exe
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\Content Management System\bin\Debug\Content Management System.pdb
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\Content Management System\obj\Debug\Content Management System.csproj.CoreCompileInputs.cache
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\Content Management System\obj\Debug\Content Management System.exe
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\Content Management System\obj\Debug\Content Management System.pdb
+C:\Users\PAKISTAN LAPTOP\source\repos\LoginModule\Content Management System\obj\Debug\Content Management System.csprojAssemblyReference.cache
